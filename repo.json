@@ -1,0 +1,161 @@
+{
+  "name": "lfwm's IPA Library",
+  "subtitle": "https://github.com/lfwm",
+  "description": "Hello there, this my app source. This source is made by lfwm, nxyq and pkplaysrblx!",
+  "iconURL": "https://i.imgur.com/WF4tCqm.jpeg",
+  "website": "https://github.com/lfwm/",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Stexify",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "marketplaceID": "",
+      "developerName": "pkplaysrblx // nxyq // lfwm",
+      "subtitle": "Stexify",
+      "localizedDescription": "Discord mod",
+      "iconURL": "https://i.imgur.com/5aCVSYF.png",
+      "tintColor": "#5464f4",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+          "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+          "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+          "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+          "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+          "NSLocationAlwaysUsageDescription": "To enable services that require location",
+          "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+          "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+          "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+          "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "",
+      "developerName": "Google",
+      "subtitle": "YouTube Modded for iOS.",
+      "localizedDescription": "YouTube for iOS.",
+      "iconURL": "https://i.imgur.com/hBV45WN.png",
+      "tintColor": "#fc0404",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Feather-idevice",
+      "bundleIdentifier": "thewonderofyou.Feather-idevice",
+      "marketplaceID": "",
+      "developerName": "khcrysalis",
+      "subtitle": "iDevice version.",
+      "localizedDescription": "Feather for iOS.",
+      "iconURL": "https://i.imgur.com/6qtxwJJ.png",
+      "tintColor": "#7736c8",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "marketplaceID": "",
+      "developerName": "khcrysalis",
+      "subtitle": "Default version",
+      "localizedDescription": "Feather for iOS.",
+      "iconURL": "https://i.imgur.com/cYHNQ6k.png",
+      "tintColor": "#7736c8",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Roblox",
+      "bundleIdentifier": "com.krnl.client",
+      "marketplaceID": "",
+      "developerName": "KRNL / WeAreDevs",
+      "subtitle": "KRNL on iOS.",
+      "localizedDescription": "KRNL executor for Roblox. On iOS.",
+      "iconURL": "https://i.imgur.com/Fnb0Cza.png",
+      "tintColor": "#345cfc",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "robloxkerneldevelopermode uses your camera to animate your avatar with your movement and scan QR codes.",
+          "NSContactsUsageDescription": "Connect with friends on robloxkerneldevelopermode. Your contacts will be regularly synced and matches with other robloxkerneldevelopermode users will be stored to help you find friends. You can manage this any time in settings.",
+          "NSHumanReadableCopyright": "2025 ROBLOX Inc.",
+          "NSLocalNetworkUsageDescription": "robloxkerneldevelopermode needs access to local networks to connect to players around you.",
+          "NSMicrophoneUsageDescription": "robloxkerneldevelopermode needs access to your microphone for voice chat.",
+          "NSMotionUsageDescription": "robloxkerneldevelopermode needs access to the accelerometer to enhance your play experience.",
+          "NSPhotoLibraryAddUsageDescription": "Allow robloxkerneldevelopermode to access your photo library so you can save images and videos to your device's camera roll.",
+          "NSPhotoLibraryUsageDescription": "robloxkerneldevelopermode needs access to your photos to enhance your play experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "marketplaceID": "",
+      "developerName": "lfwm X SideStore",
+      "subtitle": "SideStore for iOS.",
+      "localizedDescription": "This is SideStore. It is basically a modded version of AltStore.\nYou need StosVPN to use sidestore.",
+      "iconURL": "https://i.imgur.com/FYr0oYB.png",
+      "tintColor": "#04d4f9",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
