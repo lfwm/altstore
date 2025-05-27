@@ -1,0 +1,139 @@
+{
+  "name": "lfwm's Source [S&J]",
+  "subtitle": "Jailbreak & Sideloading",
+  "description": "This is my app source for sideloading or jailbreaking.",
+  "iconURL": "https://i.imgur.com/KmvasTA.jpeg",
+  "website": "https://github.com/lfwm/altstore",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/azQIOJ1.jpeg",
+  "apps": [
+    {
+      "name": "TrollInstallerX",
+      "bundleIdentifier": "com.Alfie.TrollInstallerX",
+      "marketplaceID": "",
+      "developerName": "undecimus",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/l8ek8Ed.png",
+      "tintColor": "#04b9fc",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
+          "size": 6900000,
+          "version": "1.0.3",
+          "buildVersion": null,
+          "date": "2025-05-27T09:38:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Unsandboxing with MacDirtyCow"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "GBoxTS",
+      "bundleIdentifier": "com.ncs.gboxts",
+      "marketplaceID": "",
+      "developerName": "gbox.run",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/14UeB8Q.png",
+      "tintColor": "#04e464",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ts.gbox.run/TS2/GBoxTS_v5.6.6.ipa",
+          "size": 7100000,
+          "version": "5.6.6",
+          "buildVersion": null,
+          "date": "2025-05-27T09:17:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": "12.4"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Grant access to the sandbox. Required for app functionality.",
+          "NSCameraUsageDescription": "是否权允许访问相机，以导入照片",
+          "NSFaceIDUsageDescription": "是否授权允许使用面容ID，以加密您的资料",
+          "NSPhotoLibraryAddUsageDescription": "是否权允许相册授权，以导入相册或者视频",
+          "NSPhotoLibraryUsageDescription": "是否权允许访问相册，以导入相册或者视频"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "marketplaceID": "",
+      "developerName": "khcrysalis",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/PGCZhyH.png",
+      "tintColor": "#7736c8",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.mediafire.com/file/ly2zanjii7w3cpx/Feather-default.ipa/file",
+          "size": 10000000,
+          "version": "2.0",
+          "buildVersion": null,
+          "date": "2025-05-27T09:12:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "marketplaceID": "",
+      "developerName": "SideStore",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/9LAbPUD.png",
+      "tintColor": "#04d4f9",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.mediafire.com/file/u16e4o0b700j8lm/SideStore+(1).ipa/file",
+          "size": 26400000,
+          "version": "0.6.1",
+          "buildVersion": null,
+          "date": "2025-05-27T03:03:00+01:00",
+          "localizedDescription": "",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
